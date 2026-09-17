@@ -1,5 +1,11 @@
 ---
-title: "About"
+title: "Sophia Pushlar"
 ---
 
-About this site
+- Senior in the major Environment & Sustainability
+
+- I am from Dryden, NY
+
+- I have a dog named Zola
+
+![Zola, golden doodle](images/IMG_8644-01.jpg){width="391"}

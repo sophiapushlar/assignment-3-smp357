@@ -1,7 +1,11 @@
 ---
-title: "assignment-3-smp357"
+title: "Assignment 3 Website"
 ---
 
-This is a Quarto website.
+Sophia Pushlar
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[Sophia's github account](https://github.com/sophiapushlar)
+
+Kalining sun *input github account*
+
+![Practice plot from lecture](images/cylinderplotpractice.png){width="439"}
