@@ -2,11 +2,11 @@
 title: "Assignment 3 Website"
 ---
 
-Sophia Pushlar
+**Sophia Pushlar**
 
 [Sophia's github account](https://github.com/sophiapushlar)
 
-Kailing Sun
+**Kailing Sun**
 
 [Kailing's github account](https://github.com/kailing-sun)
 
