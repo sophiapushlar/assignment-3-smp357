@@ -6,6 +6,6 @@ Sophia Pushlar
 
 [Sophia's github account](https://github.com/sophiapushlar)
 
-Kalining sun *input github account*
+Kailing sun *input github account*
 
 ![Practice plot from lecture](images/cylinderplotpractice.png){width="439"}
