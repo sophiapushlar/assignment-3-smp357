@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "assignment-3-smp357"
+  title: "Sophia's Website"
   navbar:
     left:
       - href: index.qmd
@@ -13,7 +13,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - Simplex
       - brand
     css: styles.css
     toc: true

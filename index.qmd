@@ -6,6 +6,10 @@ Sophia Pushlar
 
 [Sophia's github account](https://github.com/sophiapushlar)
 
-Kailing sun *input github account*
+Kailing Sun
 
-![Practice plot from lecture](images/cylinderplotpractice.png){width="439"}
+[Kailing's github account](https://github.com/kailing-sun)
+
+This is a website for NTRES 6100 assignment 3
+
+![Red oak tree](images/clipboard-423320292.png){width="434"}

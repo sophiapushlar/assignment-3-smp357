@@ -4,10 +4,12 @@ title: "Sophia Pushlar"
 
 - Senior in the major Environment & Sustainability
 
+- I am interested in forest ecology
+
 - I am from Dryden, NY
 
 - I have a dog named Zola
 
-![Zola, golden doodle](images/IMG_8644-01.jpg){width="391"}
+![Zola, golden doodle](images/IMG_8644-01.jpg){width="300"}
 
 🥹 Soooo cute! 💕
