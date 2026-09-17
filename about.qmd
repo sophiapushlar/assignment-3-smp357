@@ -2,7 +2,7 @@
 title: "Sophia Pushlar"
 ---
 
-# A few things about me
+### A few things about me
 
 - Senior in the major Environment & Sustainability
 
